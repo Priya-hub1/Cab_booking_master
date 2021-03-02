@@ -1,0 +1,6 @@
+Welcome user.
+You can book your cab here with the 3 steps!!
+
+step 1: Locate yourself
+step 2 : search for cab availability
+step 3 :Book the cab if it available
